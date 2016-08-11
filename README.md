@@ -1,2 +1,3 @@
-# consul-docker
-A repository to create a Consul docker image which includes curl
+# Consul
+
+A repository to extend the original Consul container to include Curl to allow for health checks.
